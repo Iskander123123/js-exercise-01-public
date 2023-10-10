@@ -15,5 +15,5 @@ const w = isHappyTicket('231002');
 console.log(w);
 console.log(determineTimeOfDay(123));
 console.log(calculateAverage(-20, -2, -5, -7, -1));
-console.log(isDivisibleBy5AndEven(5));
+console.log(isDivisibleBy5AndEven(50));
 console.log('end');
